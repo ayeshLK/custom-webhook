@@ -1,0 +1,64 @@
+#[[dependency]]
+#org = "ballerina"
+#name = "io"
+#version = "@stdlib.io.version@"
+#
+#[[dependency]]
+#org = "ballerina"
+#name = "cache"
+#version = "@stdlib.cache.version@"
+#
+#[[dependency]]
+#org = "ballerina"
+#name = "auth"
+#version = "@stdlib.auth.version@"
+#
+#[[dependency]]
+#org = "ballerina"
+#name = "crypto"
+#version = "@stdlib.crypto.version@"
+#
+#[[dependency]]
+#org = "ballerina"
+#name = "url"
+#version = "@stdlib.url.version@"
+#
+#[[dependency]]
+#org = "ballerina"
+#name = "mime"
+#version = "@stdlib.mime.version@"
+#
+#[[dependency]]
+#org = "ballerina"
+#name = "time"
+#version = "@stdlib.time.version@"
+#
+#[[dependency]]
+#org = "ballerina"
+#name = "log"
+#version = "@stdlib.log.version@"
+#
+#[[dependency]]
+#org = "ballerina"
+#name = "http"
+#version = "@stdlib.http.version@"
+#
+#[[dependency]]
+#org = "ballerina"
+#name = "regex"
+#version = "@stdlib.regex.version@"
+#
+#[[dependency]]
+#org = "ballerina"
+#name = "uuid"
+#version = "@stdlib.uuid.version@"
+#
+#[[dependency]]
+#org = "ballerina"
+#name = "random"
+#version = "@stdlib.random.version@"
+#
+#[[dependency]]
+#org = "ballerina"
+#name = "websub"
+#version = "@stdlib.websub.version@"
