@@ -2,7 +2,7 @@ import ballerina/websub;
 import ballerina/log;
 import ballerina/jballerina.java;
 
-service class WebSubService {
+isolated service class WebSubService {
     *websub:SubscriberService;
 
     public isolated function init(CustomWebhookService 'service) returns error? {
